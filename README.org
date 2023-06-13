@@ -1,0 +1,10 @@
+* pludeck
+
+Practically Lenient and Unimpressive DOM Element Construction Kit
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jorams/pludeck.git   |
+| commit  | d15712b  |
+| systems | pludeck |
+|---------+-------------------------------------------|
+
